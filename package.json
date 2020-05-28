@@ -1,0 +1,12 @@
+{
+  "name": "node-scripts",
+  "version": "1.0.0",
+  "description": "积累的node脚本工具",
+  "keywords": [
+    "node",
+    "scripts",
+    "tool"
+  ],
+  "author": "baibai_lee@163.com",
+  "license": "MIT"
+}
