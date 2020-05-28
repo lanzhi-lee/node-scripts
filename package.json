@@ -7,6 +7,9 @@
     "scripts",
     "tool"
   ],
+  "scripts": {
+    "merge-file": "node ./file-merge.js"
+  },
   "author": "baibai_lee@163.com",
   "license": "MIT"
 }
