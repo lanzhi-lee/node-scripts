@@ -4,7 +4,7 @@
 
 ## 列表如下
 
-- 文本文件合并 [file-merge.js]('./file-merge.js')
+- 文本文件合并 [file-merge.js](file-merge.js)
 
 ```bash
 node file-merge.js \
